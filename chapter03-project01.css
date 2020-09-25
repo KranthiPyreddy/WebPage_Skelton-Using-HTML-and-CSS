@@ -1,0 +1,71 @@
+body {
+    background-color: #E8EAF6;
+}
+
+header, footer {
+    color: white;
+    background-color: #1A237E;
+    margin: 3em 4em 1em 4em;
+    box-sizing: border-box;
+    padding: 0cm;
+}
+
+nav {
+    color: #ADD8E6;
+    background-color: #3F51B5;
+    padding: 0.50em;
+}
+
+a:hover {
+    color: white;
+    background-color: #F50057;
+}
+
+section {
+    font-family: serif;
+    margin: 0em 4em 0.25em 4em;
+}
+
+figcaption {
+    background-color: #C5CAE9;
+    padding: 0.65em;
+    font-family: serif;
+    color: darkblue;
+    font-style: italic;
+}
+
+h3 {
+    background-color: #7986CB;
+    padding: 0.70em;
+    font-family: sans-serif;
+    color: #E8EAF6;
+}
+
+p {
+    font-family: sans-serif;
+    font-style: serif;
+    margin: 1em 1em 1em 1em;
+}
+
+main {
+    
+    padding: 0px;
+    background-color: #E8EAF6;
+    margin: 1em 1em 1em 1em;
+    border-radius: 1em;
+    
+}
+
+time {
+    color: #ff80AB;
+}
+
+.link {
+    color: aqua;
+    padding: .70em;
+}
+
+b {
+    font-style: italic;
+    color: blue;
+}
